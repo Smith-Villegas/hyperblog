@@ -36,3 +36,11 @@ body {
 
     font-size: 20px;
 }
+
+#footer {
+    font-family: monospace;
+    text-align: center;
+    background: #2A0E26;
+    color: #fff;
+    
+}
