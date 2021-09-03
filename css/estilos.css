@@ -1,0 +1,61 @@
+body {
+    
+    text-align: center;
+    
+    font-size: 16px;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background: #040000;
+    
+}
+
+#post {
+    color: #fff;
+}
+
+.imagen {
+    width: 53px; 
+    height: 40px;
+    position: absolute;
+    left: 100px;
+    
+   
+}
+
+#cabecera {
+    background: #264653;
+    box-shadow: 0px 5px 30px 0px rgba(0,0,0,0.5);
+    color: #191808;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+}
+
+#tagline {
+    text-align: end;
+}
+
+
+
+
+
+#container {
+    width: 70%;
+    padding: 0;
+    
+    border: 1px solid #DEE0D5;
+    margin: 0 auto;
+}
+
+#container h1 {
+
+    font-size: 20px;
+}
+
+#footer {
+    font-family: monospace;
+    text-align: center;
+    background: #41183a;
+    color: #fff;   
+}

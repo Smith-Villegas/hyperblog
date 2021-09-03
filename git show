@@ -1,0 +1,25 @@
+[33mcommit 37644d52b3641001e8c587a1e76cb8b9bdfbe423[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Smith Villegas <Smith@Villegas.com>
+Date:   Mon Dec 28 05:57:35 2020 -0500
+
+    Agregamos el cargo de la persona
+    
+    La persona es Smith
+
+[33mcommit fb2608cfdcd4927d2332419562e7d8a162e42c89[m
+Author: Smith Villegas <Smith@Villegas.com>
+Date:   Mon Dec 28 05:43:15 2020 -0500
+
+    Agregamos un cambio a su estatura
+
+[33mcommit ae8ab44ab9872f38fc3bb2de4b295353268b5047[m
+Author: Smith Villegas <Smith@Villegas.com>
+Date:   Mon Dec 28 05:32:58 2020 -0500
+
+    Cambios al archivo de historia para reflejar la edad correcta
+
+[33mcommit e7a6a9bceecde94491fa7cdd7301814f5f43a003[m
+Author: Smith Villegas <Smith@Villegas.com>
+Date:   Mon Dec 28 05:25:53 2020 -0500
+
+    Este es el primer commit de este archivo
